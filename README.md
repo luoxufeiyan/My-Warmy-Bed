@@ -1,5 +1,5 @@
 # My-Warmy-Bed
-Extend my sleeping bed, so that tall people can enjoy sleep.
+Extend bed for some tall guys.
 
 加长睡床用的草图工程，方便身高较高的同学睡觉。
 
